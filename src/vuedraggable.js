@@ -294,7 +294,7 @@
   }
 
   if (typeof exports == "object") {
-    var Sortable = require("sortablejs")
+    var Sortable = require("sortablejs").default
     module.exports = buildDraggable(Sortable)
   } else if (typeof define == "function" && define.amd) {
     define(['sortablejs'], function (Sortable) { return buildDraggable(Sortable); });
