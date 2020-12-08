@@ -1,6 +1,6 @@
 {
   "name": "@hipersoftwares/vuedraggable",
-  "version": "2.10.1",
+  "version": "2.10.2",
   "description": "draggable component for vue",
   "main": "dist/vuedraggable.js",
   "files": [
@@ -53,12 +53,12 @@
   },
   "author": "David Desmaisons",
   "bugs": {
-    "url": "https://github.com/David-Desmaisons/Vue.Draggable/issues"
+    "url": "https://github.com/matheusavi/Vue.Draggable/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/David-Desmaisons/Vue.Draggable#readme",
+  "homepage": "https://github.com/matheusavi/Vue.Draggable#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/David-Desmaisons/Vue.Draggable.git"
+    "url": "https://github.com/matheusavi/Vue.Draggable.git"
   }
 }
