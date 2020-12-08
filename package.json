@@ -1,6 +1,6 @@
 {
-  "name": "vuedraggable",
-  "version": "2.10.0",
+  "name": "@hipersoftwares/vuedraggable",
+  "version": "2.10.1",
   "description": "draggable component for vue",
   "main": "dist/vuedraggable.js",
   "files": [
